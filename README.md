@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Jedde, a full-time software developer at Monetary Metals living in the Phoenix, AZ area 🌇
+- 👋 Hi, I’m Jedde, a full-time software developer at Monetary Metals living in the Colorado Springs area 🌇
 - 👀 Full-Stack by trade, gamer and mediocre pickle baller by hobby
-- 🌱 I’m wrapping up a project with SvelteKit and Supabase. Wanting to sink my teeth into RSCs.
 - 📫 How to reach me:
   -  Email: jjbowma2@gmail.com
 
